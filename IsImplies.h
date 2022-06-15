@@ -2,7 +2,7 @@
 // File:   IsImplies.h
 // Author: appiah
 //
-// Created on 4 January 1980, 00:30
+// Created on 4 January 2020, 00:30
 //
 #include "LEEType.h"
 #include "temporalrank.h"
