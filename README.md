@@ -1,2 +1,2 @@
 # LeeIntepretor
-This is the interpretor for agent interpretation for the LeeEditor project
+This is the interpretor for agent interpretation for the LeeEditor and LeeProcSystem project
